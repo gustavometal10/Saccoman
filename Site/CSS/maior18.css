@@ -1,0 +1,56 @@
+@charset "utf-8";
+body div {
+}
+* {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+#site-container #logo-container {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin-top: 2%;
+}
+#logo-container #logo img {
+    height: auto;
+    width: 37%;
+}
+#site-container #conteudo-container {
+    width: 100%;
+    height: auto;
+    background-color: #FFFFFF;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+
+
+#conteudo-container #conteudo #18 {
+    float: left;
+    width: 46%;
+    height: auto;
+}
+#conteudo #18 img {
+    height: auto;
+    width: 95%;
+}
+
+#conteudo-container #conteudo #formulario {
+    float: right;
+    width: 40%;
+    height: auto;
+    margin-top: 100px;
+    color: #000000;
+}
